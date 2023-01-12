@@ -1,3 +1,7 @@
+- domain: test.com
+  url: https://test.com
+  method: mediaquery
+  last_checked: 2023-01-12
 - domain: 512kb.club
   url: https://512kb.club/
   method: mediaquery
