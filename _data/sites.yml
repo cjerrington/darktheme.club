@@ -178,3 +178,7 @@
   url: https://yahoo.com/
   method: darkonly
   last_checked: 2023-01-07
+- domain: zoo.com
+  url: https://zoo.com/
+  method: darkonly
+  last_checked: 2023-01-07
