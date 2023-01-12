@@ -2,213 +2,175 @@
   url: https://512kb.club/
   method: mediaquery
   last_checked: 2022-04-16
-
 - domain: 5am.is
   url: https://5am.is/
   method: mediaquery
   last_checked: 2022-11-26
-
 - domain: adamsdesk.com
   url: https://www.adamsdesk.com/
   method: darkonly
   last_checked: 2022-01-02
-
 - domain: aitrack.work
   url: https://aitrack.work/
   method: javascript
   last_checked: 2022-07-19
-
 - domain: bernsteinbear.com
   url: https://bernsteinbear.com/
   method: mediaquery
   last_checked: 2022-07-18
-
 - domain: bfoliver.com
   url: https://www.bfoliver.com
   method: mediaquery
   last_checked: 2022-04-16
-
 - domain: bubble.email
   url: https://bubble.email
   method: darkonly
   last_checked: 2022-07-17
-
 - domain: castorisdead.xyz
   url: https://castorisdead.xyz
   method: darkonly
   last_checked: 2022-21-12
-
 - domain: claytonerrington.com
   url: https://claytonerrington.com/
   method: darkonly
   last_checked: 2023-01-07
-
 - domain: cleberg.net
   url: https://cleberg.net/
   method: darkonly
   last_checked: 2022-12-17
-
 - domain: codeberg.org
   url: https://codeberg.org/
   method: mediaquery
   last_checked: 2022-07-21
-
 - domain: darktheme.club
   url: https://darktheme.club/
   method: mediaquery
   last_checked: 2022-07-25
-
 - domain: duckduckgo.com
   url: https://duckduckgo.com/
   method: unknown
   last_checked: 2022-07-16
-
 - domain: emanuelpina.pt
   url: https://emanuelpina.pt/
   method: mediaquery
   last_checked: 2022-07-24
-
 - domain: evanhahn.com
   url: https://evanhahn.com/
   method: mediaquery
   last_checked: 2022-07-16
-
 - domain: feedmail.org
   url: https://feedmail.org
   method: mediaquery
   last_checked: 2022-07-16
-
 - domain: foreverliketh.is
   url: https://foreverliketh.is/
   method: javascript
   last_checked: 2022-12-30
-
 - domain: forgefed.org
   url: https://forgefed.org
   method: mediaquery
   last_checked: 2022-07-21
-
 - domain: garrit.xyz
   url: https://garrit.xyz/
   method: mediaquery
   last_checked: 2022-04-16
-
 - domain: github.com
   url: https://github.com/
   method: mediaquery
   last_checked: 2022-07-16
-
 - domain: home.omg.lol
   url: https://home.omg.lol
   method: mediaquery
   last_checked: 2022-10-26
-
 - domain: hugo.md
   url: https://hugo.md/
   method: mediaquery
   last_checked: 2022-07-17
-
 - domain: inherently.xyz
   url: https://inherently.xyz/
   method: mediaquery
   last_checked: 2022-07-17
-
 - domain: jlelse.blog
   url: https://jlelse.blog/
   method: mediaquery
   last_checked: 2022-07-16
-
 - domain: joelchrono12.xyz
   url: https://joelchrono12.xyz
   method: darkonly
   last_checked: 2023-01-04
-
 - domain: lkhrs.com
   url: https://www.lkhrs.com/
   method: mediaquery
   last_checked: 2022-07-17
-
 - domain: nih.ar
   url: https://nih.ar/
   method: mediaquery
   last_checked: 2022-10-23
-
 - domain: phishwarn.codeberg.page
   url: https://phishwarn.codeberg.page/
   method: mediaquery
   last_checked: 2022-07-16
-
 - domain: pragmaticpineapple.com
   url: https://pragmaticpineapple.com/
   method: mediaquery
   last_checked: 2022-07-18
-
 - domain: radiocanadamini.ca
   url: https://radiocanadamini.ca/
   method: mediaquery
   last_checked: 2022-10-03
-
 - domain: revuo-xmr.com
   url: https://revuo-xmr.com/
   method: javascript
   last_checked: 2022-07-16
-
 - domain: rober.design
   url: https://rober.design/
   method: mediaquery
   last_checked: 2022-07-24
-
 - domain: rohandebsarkar.github.io
   url: https://rohandebsarkar.github.io/
   method: mediaquery
   last_checked: 2022-10-30
-
 - domain: seeking-maintainers.net
   url: https://seeking-maintainers.net/
   method: mediaquery
   last_checked: 2022-05-04
-
 - domain: seirdy.one
   url: https://seirdy.one/
   method: mediaquery
   last_checked: 2022-07-18
-
 - domain: slashdev.space
   url: https://slashdev.space/
   method: mediaquery
   last_checked: 2022-04-16
-
 - domain: tauri.app
   url: https://tauri.app/
   method: javascript
   last_checked: 2022-07-21
-
 - domain: taylantatli.com
   url: https://taylantatli.com/
   method: mediaquery
   last_checked: 2022-07-17
-
 - domain: tecroxy.com
   url: https://tecroxy.com/
   method: javascript
   last_checked: 2022-12-11
-
 - domain: thomas.me
   url: https://thomas.me/
   method: mediaquery
   last_checked: 2022-07-17
-  
 - domain: traeblain.com
   url: https://traeblain.com/
   method: mediaquery
   last_checked: 2023-01-05
-
 - domain: watch3r.app
   url: https://watch3r.app/
   method: darkonly
   last_checked: 2022-07-20
-
 - domain: whoisyoges.eu.org
   url: https://whoisyoges.eu.org/
   method: darkonly
   last_checked: 2022-12-12
+- domain: yahoo.com
+  url: https://yahoo.com/
+  method: darkonly
+  last_checked: 2023-01-07

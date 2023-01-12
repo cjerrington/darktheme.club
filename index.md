@@ -31,6 +31,6 @@ media query.
 <ul class="sites">
     {%- assign site_domains = site.data.sites | sort:"domain" -%}
     {%- for item in site_domains -%}
-        {% include sites.html %}
+        {%- include sites.html -%}
     {%- endfor -%}
 </ul>

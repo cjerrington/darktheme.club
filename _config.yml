@@ -21,3 +21,6 @@ exclude:
   - scripts/
 
 theme: jekyll-theme-cayman
+
+only:
+  - data/sites.yml
