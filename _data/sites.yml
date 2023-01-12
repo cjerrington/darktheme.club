@@ -54,6 +54,11 @@
   url: https://emanuelpina.pt/
   method: mediaquery
   last_checked: 2022-07-24
+- domain: yahoo.com
+  url: https://yahoo.com/
+  method: darkonly
+  last_checked: 2023-01-07
+
 - domain: evanhahn.com
   url: https://evanhahn.com/
   method: mediaquery
@@ -174,7 +179,3 @@
   url: https://whoisyoges.eu.org/
   method: darkonly
   last_checked: 2022-12-12
-- domain: yahoo.com
-  url: https://yahoo.com/
-  method: darkonly
-  last_checked: 2023-01-07

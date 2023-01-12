@@ -14,4 +14,12 @@ jobs:
       - uses: actions/checkout@v3
       - name: Check domain sorting
         run: |
-          sh scripts/check_alphabetical_sorting.sh
+          yq 'sort_by(.domain)' _data/sites.yml > _data/sorted.yml
+          rm _data/sites.yml
+          mv _data/sorted.yml _data/sites.yml
+          git add .
+          git diff
+          git config --global user.email "github-action-bot@example.com"
+          git config --global user.name "GitHub Action Bot"
+          git commit -m "alphabatized _data/sites.yml" -a || echo "No changes to commit"
+          git push
